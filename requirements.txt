@@ -1,4 +1,4 @@
 pyTelegramBotAPI
 pandas
-pandas_ta
+pandas-ta==0.2.9b0
 requests
